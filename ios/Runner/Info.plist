@@ -27,9 +27,9 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>Access camera for uploading pictures</string>
+	<string>Please authorize the camera to upload the lobby cover</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Access the album for uploading pictures</string>
+	<string>Please authorize the album to upload the lobby cover</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
